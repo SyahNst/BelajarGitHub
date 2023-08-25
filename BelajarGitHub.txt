@@ -2,3 +2,5 @@ Belajar Git Hub
 1. Apa itu Github
 2. Bagaimana Menggunakannya
 3. Apa bedanya dengan Git
+4. Apa keuntungan menggunakan Git
+5. Menggunakan Git
