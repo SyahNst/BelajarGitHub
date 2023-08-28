@@ -7,6 +7,8 @@ Rencana untuk menguasai Git
      ^ Advance subject
      ^ Summary
   3. Youtuber 3
+     ^ Interconnection
+     ^ Manual
 
 - Mencoba sendiri
   1. Di Github
