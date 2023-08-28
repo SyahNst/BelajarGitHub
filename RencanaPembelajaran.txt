@@ -4,7 +4,10 @@ Rencana untuk menguasai Git
      ^ introduction
      ^ Definition
   2. Youtuber 2
+     ^ Advance subject
+     ^ Summary
   3. Youtuber 3
+
 - Mencoba sendiri
   1. Di Github
   2. Mencoba di Git
