@@ -1,6 +1,10 @@
 Rencana untuk menguasai Git
 - Menonton tutorial dari youtube
   1. Youtuber 1
+     ^ introduction
+     ^ Definition
   2. Youtuber 2
   3. Youtuber 3
 - Mencoba sendiri
+  1. Di Github
+  2. Mencoba di Git
