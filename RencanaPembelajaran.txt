@@ -1,7 +1,6 @@
 Rencana untuk menguasai Git
 - Menonton tutorial dari youtube
   1. Youtuber 1
-  2. Youtuber 2
      ^ Advance subject
      ^ Summary
 - Mencoba sendiri
