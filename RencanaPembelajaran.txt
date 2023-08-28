@@ -7,3 +7,4 @@ Rencana untuk menguasai Git
   3. Youtuber 3
 - Mencoba sendiri
   1. Di Github
+  2. Mencoba di Git
